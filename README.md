@@ -1,2 +1,2 @@
 # Mozart_game
-The game video of Mozart_game 
+The game of Mozart_game 
